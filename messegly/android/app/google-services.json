@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "265111702327",
+    "project_id": "messegly",
+    "storage_bucket": "messegly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265111702327:android:2ed88c51f2d75cffb7e8b2",
+        "android_client_info": {
+          "package_name": "com.example.messegly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265111702327-qbv3ekds1il1cigi20q47pcsslhj72hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messegly",
+            "certificate_hash": "003f1444a0326a0514ab7c68e9af0c2f369b31af"
+          }
+        },
+        {
+          "client_id": "265111702327-er1bcodudc00gidg187d88ctspsohjrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOqtMMcBnF38eArUoy5XGr_Q4uz3eRpXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265111702327-er1bcodudc00gidg187d88ctspsohjrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
